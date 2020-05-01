@@ -3142,7 +3142,7 @@ zipcode,room_type,accommodates,bedrooms,bathrooms,beds,minimum_nights,number_of_
 94110,Entire home/apt,3,1.0,1.0,1.0,30,4,275.0,bin 252-288
 94109,Entire home/apt,2,1.0,1.0,1.0,30,14,148.0,bin 144-180
 94117,Private room,2,1.0,1.0,1.0,2,2,10.0,bin 0-36
-94110,Private room,2,1.0,1.0,1.0,4,32,0.0,
+94110,Private room,2,1.0,1.0,1.0,4,32,0.0,bin 0-36
 94109,Private room,1,1.0,5.0,1.0,30,2,59.0,bin 36-72
 94112,Entire home/apt,4,1.0,1.0,1.0,1,109,225.0,bin 216-252
 94123,Entire home/apt,4,3.0,1.0,2.0,30,1,215.0,bin 180-216
